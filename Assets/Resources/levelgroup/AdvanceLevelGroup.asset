@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85bdfd81ebecaf8513d1b5a5afe985ca, type: 3}
+  m_Name: "AdvanceLevelGroup"
+  m_EditorClassIdentifier: 
+  LevelGroupName: "Advance"
+  TotalLevel: 50
+  ResourcesFolderPath: "Advance\x5c"
+  bgColor: {r: 0.08235294, g: 0.3960785, b: 0.7529413, a: 1}
+  StarXPReward: 4
+  NoOfHint: 5
+  LevelDetailBG: {fileID: 21300000, guid: c628cd4201454defb2ef737703b6c35d, type: 3}
+  LevelHeaderBG: {fileID: 21300000, guid: 1ebd849011bb4f469f7f6dbab74a1602, type: 3}

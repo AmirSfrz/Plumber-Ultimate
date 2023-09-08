@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fb2009004df54402bb50848749399b0a
+timeCreated: 1613767609
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "iciel Cadena"
+  fontNames:
+  - iCiel Cadena
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

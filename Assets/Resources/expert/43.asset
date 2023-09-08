@@ -1,0 +1,425 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc4ef9993ff390b4712a68aac2b8d840, type: 3}
+  m_Name: "43"
+  m_EditorClassIdentifier: 
+  row: 9
+  column: 9
+  levelContainerDelta: {x: 0, y: 0, z: 0}
+  messagePopupIndex: -1
+  complimentType: 0
+  maxCellSize: 140
+  cellList:
+  - CellIndex: 4
+    CurrentRotationValue: 3
+    RightRotationValue: 0
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 2
+    CurrentRotationValue: 2
+    RightRotationValue: 1
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 4
+    CurrentRotationValue: 3
+    RightRotationValue: 1
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 2
+    CurrentRotationValue: 2
+    RightRotationValue: 1
+    DefaultColor: 0
+    Redundant: 1
+  - CellIndex: 4
+    CurrentRotationValue: 3
+    RightRotationValue: 1
+    DefaultColor: 0
+    Redundant: 1
+  - CellIndex: 4
+    CurrentRotationValue: 1
+    RightRotationValue: 0
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 4
+    CurrentRotationValue: 2
+    RightRotationValue: 1
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 4
+    CurrentRotationValue: 2
+    RightRotationValue: 0
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 4
+    CurrentRotationValue: 2
+    RightRotationValue: 1
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 4
+    CurrentRotationValue: 0
+    RightRotationValue: 3
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 4
+    CurrentRotationValue: 3
+    RightRotationValue: 1
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 3
+    CurrentRotationValue: 0
+    RightRotationValue: 3
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 3
+    CurrentRotationValue: 1
+    RightRotationValue: 0
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 7
+    CurrentRotationValue: 3
+    RightRotationValue: 1
+    DefaultColor: 4
+    Redundant: 0
+  - CellIndex: 2
+    CurrentRotationValue: 2
+    RightRotationValue: 0
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 3
+    CurrentRotationValue: 1
+    RightRotationValue: 3
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 4
+    CurrentRotationValue: 0
+    RightRotationValue: 2
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 2
+    CurrentRotationValue: 1
+    RightRotationValue: 0
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 4
+    CurrentRotationValue: 1
+    RightRotationValue: 0
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 6
+    CurrentRotationValue: 2
+    RightRotationValue: 0
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 5
+    CurrentRotationValue: 1
+    RightRotationValue: 0
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 3
+    CurrentRotationValue: 0
+    RightRotationValue: 2
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 2
+    CurrentRotationValue: 2
+    RightRotationValue: 1
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 5
+    CurrentRotationValue: 1
+    RightRotationValue: 0
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 3
+    CurrentRotationValue: 3
+    RightRotationValue: 2
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 2
+    CurrentRotationValue: 2
+    RightRotationValue: 1
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 4
+    CurrentRotationValue: 0
+    RightRotationValue: 2
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 3
+    CurrentRotationValue: 3
+    RightRotationValue: 3
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 3
+    CurrentRotationValue: 0
+    RightRotationValue: 2
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 3
+    CurrentRotationValue: 2
+    RightRotationValue: 1
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 3
+    CurrentRotationValue: 1
+    RightRotationValue: 2
+    DefaultColor: 0
+    Redundant: 1
+  - CellIndex: 4
+    CurrentRotationValue: 2
+    RightRotationValue: 0
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 3
+    CurrentRotationValue: 2
+    RightRotationValue: 1
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 3
+    CurrentRotationValue: 0
+    RightRotationValue: 3
+    DefaultColor: 0
+    Redundant: 1
+  - CellIndex: 1
+    CurrentRotationValue: 3
+    RightRotationValue: 3
+    DefaultColor: 1
+    Redundant: 0
+  - CellIndex: 4
+    CurrentRotationValue: 2
+    RightRotationValue: 1
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 4
+    CurrentRotationValue: 1
+    RightRotationValue: 3
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 4
+    CurrentRotationValue: 3
+    RightRotationValue: 1
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 1
+    CurrentRotationValue: 1
+    RightRotationValue: 2
+    DefaultColor: 1
+    Redundant: 0
+  - CellIndex: 4
+    CurrentRotationValue: 1
+    RightRotationValue: 0
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 3
+    CurrentRotationValue: 2
+    RightRotationValue: 1
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 3
+    CurrentRotationValue: 0
+    RightRotationValue: 3
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 3
+    CurrentRotationValue: 2
+    RightRotationValue: 0
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 2
+    CurrentRotationValue: 2
+    RightRotationValue: 1
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 3
+    CurrentRotationValue: 1
+    RightRotationValue: 1
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 4
+    CurrentRotationValue: 2
+    RightRotationValue: 0
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 3
+    CurrentRotationValue: 3
+    RightRotationValue: 2
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 7
+    CurrentRotationValue: 1
+    RightRotationValue: 1
+    DefaultColor: 4
+    Redundant: 0
+  - CellIndex: 2
+    CurrentRotationValue: 3
+    RightRotationValue: 0
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 3
+    CurrentRotationValue: 0
+    RightRotationValue: 3
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 3
+    CurrentRotationValue: 2
+    RightRotationValue: 1
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 2
+    CurrentRotationValue: 1
+    RightRotationValue: 0
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 7
+    CurrentRotationValue: 0
+    RightRotationValue: 3
+    DefaultColor: 4
+    Redundant: 0
+  - CellIndex: 4
+    CurrentRotationValue: 0
+    RightRotationValue: 2
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 3
+    CurrentRotationValue: 1
+    RightRotationValue: 3
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 3
+    CurrentRotationValue: 2
+    RightRotationValue: 0
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 2
+    CurrentRotationValue: 2
+    RightRotationValue: 1
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 5
+    CurrentRotationValue: 1
+    RightRotationValue: 0
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 4
+    CurrentRotationValue: 2
+    RightRotationValue: 2
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 3
+    CurrentRotationValue: 0
+    RightRotationValue: 3
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 3
+    CurrentRotationValue: 2
+    RightRotationValue: 1
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 4
+    CurrentRotationValue: 0
+    RightRotationValue: 0
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 4
+    CurrentRotationValue: 1
+    RightRotationValue: 1
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 3
+    CurrentRotationValue: 1
+    RightRotationValue: 3
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 3
+    CurrentRotationValue: 0
+    RightRotationValue: 1
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 4
+    CurrentRotationValue: 2
+    RightRotationValue: 0
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 3
+    CurrentRotationValue: 1
+    RightRotationValue: 1
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 1
+    CurrentRotationValue: 0
+    RightRotationValue: 0
+    DefaultColor: 2
+    Redundant: 0
+  - CellIndex: 1
+    CurrentRotationValue: 2
+    RightRotationValue: 2
+    DefaultColor: 2
+    Redundant: 0
+  - CellIndex: 2
+    CurrentRotationValue: 1
+    RightRotationValue: 0
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 3
+    CurrentRotationValue: 0
+    RightRotationValue: 3
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 3
+    CurrentRotationValue: 0
+    RightRotationValue: 1
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 4
+    CurrentRotationValue: 1
+    RightRotationValue: 3
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 3
+    CurrentRotationValue: 1
+    RightRotationValue: 2
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 4
+    CurrentRotationValue: 0
+    RightRotationValue: 2
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 4
+    CurrentRotationValue: 0
+    RightRotationValue: 3
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 3
+    CurrentRotationValue: 3
+    RightRotationValue: 2
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 2
+    CurrentRotationValue: 2
+    RightRotationValue: 1
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 3
+    CurrentRotationValue: 1
+    RightRotationValue: 2
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 3
+    CurrentRotationValue: 0
+    RightRotationValue: 2
+    DefaultColor: 0
+    Redundant: 0
+  - CellIndex: 4
+    CurrentRotationValue: 0
+    RightRotationValue: 2
+    DefaultColor: 0
+    Redundant: 0

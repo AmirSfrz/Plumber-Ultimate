@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85bdfd81ebecaf8513d1b5a5afe985ca, type: 3}
+  m_Name: "ExpertLevelGroup"
+  m_EditorClassIdentifier: 
+  LevelGroupName: "Expert"
+  TotalLevel: 50
+  ResourcesFolderPath: "Expert\x5c"
+  bgColor: {r: 0.4705883, g: 0.1372549, b: 0.7490196, a: 1}
+  StarXPReward: 5
+  NoOfHint: 7
+  LevelDetailBG: {fileID: 21300000, guid: 12d38caf718a4f42b82ebf4539fec6bd, type: 3}
+  LevelHeaderBG: {fileID: 21300000, guid: 9ce68474072a4856bffefedec58c86cb, type: 3}
